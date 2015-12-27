@@ -1,5 +1,4 @@
-# Chapter 2
+# Getting Started
+In its simplest configuration, you can run a single vagrant node Apollo cluster on your own machine. Of course, if you have more resources on your computer you can also run a mulitiple node cluster on your machine. Those so inclined can use other cloud based services such as AWS, Digital Ocean, Rackspace, etc.
 
-It was a **bold** and *italic* night!
-
-Suddenly, a shot rang out!
+This chapter is divided into sections for local vagrant development (good for starting if you don't have a cloud provider or if you want to mimic a similar environment for your application), AWS development and Digital Ocean. Choose a section and get started. Upon completion, you can tear down the environment to ensure you don't incur any more cost than is necessary.

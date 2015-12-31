@@ -1,11 +1,21 @@
 # Introduction
+
 ## Apollo components
+
 ### What you need to know about Mesos
+
 ### What you need to know about Docker
+
 ### What you need to know about Packer
+
 ### What you need to know about Atlas
+
 ### What you need to know about Terraform
+
 ### What you need to know about Consul
+
 ### What you need to know about HAProxy
+
 ### What you need to know about Weave
+
 ### What you need to know about Dnsmasq
